@@ -19,7 +19,7 @@ Nested virtualization is a feature that allows you to run Hyper-V inside of a Hy
 
 - A Hyper-V host running Windows Server 2016 or Windows 10 Anniversary Update.
 - A Hyper-V VM running Windows Server 2016 or Windows 10 Anniversary Update.
-- A Hyper-V VM with configuration version 8.0 or greater.
+- A Hyper-V VM with configuration version 7.0 or greater.
 - An Intel processor with VT-x and EPT technology.
 
 ## Configure Nested Virtualization
